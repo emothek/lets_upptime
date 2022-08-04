@@ -15,11 +15,11 @@ sites:
     url: https://fondsfinanz.joinlets.de
   - name: Die Bayerische
     url: https://diebayerische.joinlets.de
-  - name: New Letsact web 2.0
+  - name: New Letsact web 2
     url: https://app.letsact.de
-  - name: Letsact Org tool :
+  - name: Letsact Org tool
     url: https://org.letsact.de
-  - name: Test Broken Site ~ ignore this
+  - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
