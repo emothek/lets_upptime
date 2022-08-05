@@ -37,3 +37,9 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+env:
+  SECRETS_CONTEXT: ${{ toJson(secrets) }}
+  NOTIFICATION_SLACK: ${{ secrets.NOTIFICATION_SLACK }} 
+  NOTIFICATION_SLACK_WEBHOOK: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK }} 
+  NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
