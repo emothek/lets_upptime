@@ -4,19 +4,19 @@
     "url": "https://letsact.de",
     "icon": "https://favicons.githubusercontent.com/letsact.de",
     "slug": "letsact-landing-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 212,
-    "timeDay": 184,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 217,
+    "timeDay": 196,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-08-05": 0
+      "2022-08-05": 11
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://app.letsact.de",
     "icon": "https://favicons.githubusercontent.com/app.letsact.de",
     "slug": "new-letsact-web-2",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 456,
-    "timeDay": 377,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 469,
+    "timeDay": 409,
+    "timeWeek": 469,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2022-08-05": 0
+      "2022-08-05": 11
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://org.letsact.de",
     "icon": "https://favicons.githubusercontent.com/org.letsact.de",
     "slug": "letsact-org-tool",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 496,
-    "timeDay": 392,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 502,
+    "timeDay": 417,
+    "timeWeek": 502,
+    "timeMonth": 502,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2022-08-05": 0
+      "2022-08-05": 11
     }
   }
 ]
