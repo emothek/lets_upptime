@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/letsact.de",
     "slug": "letsact-landing-page",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
-    "time": 217,
-    "timeDay": 196,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
-    "dailyMinutesDown": {
-      "2022-08-05": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 209,
+    "timeDay": 189,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lets landing page",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 527,
-    "timeWeek": 778,
-    "timeMonth": 778,
-    "timeYear": 778,
+    "time": 760,
+    "timeDay": 537,
+    "timeWeek": 760,
+    "timeMonth": 760,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 508,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "time": 578,
+    "timeDay": 495,
+    "timeWeek": 578,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 499,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "time": 579,
+    "timeDay": 506,
+    "timeWeek": 579,
+    "timeMonth": 579,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 505,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "time": 564,
+    "timeDay": 521,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 507,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "time": 541,
+    "timeDay": 446,
+    "timeWeek": 541,
+    "timeMonth": 541,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -115,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/app.letsact.de",
     "slug": "new-letsact-web-2",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 409,
+    "timeDay": 421,
     "timeWeek": 469,
     "timeMonth": 469,
     "timeYear": 469,
-    "dailyMinutesDown": {
-      "2022-08-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Letsact Org tool",
@@ -135,18 +131,16 @@
     "icon": "https://favicons.githubusercontent.com/org.letsact.de",
     "slug": "letsact-org-tool",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
-    "time": 502,
-    "timeDay": 417,
-    "timeWeek": 502,
-    "timeMonth": 502,
-    "timeYear": 502,
-    "dailyMinutesDown": {
-      "2022-08-05": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 500,
+    "timeDay": 422,
+    "timeWeek": 500,
+    "timeMonth": 500,
+    "timeYear": 500,
+    "dailyMinutesDown": {}
   }
 ]
