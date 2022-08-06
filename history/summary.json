@@ -4,19 +4,19 @@
     "url": "https://letsact.de",
     "icon": "https://favicons.githubusercontent.com/letsact.de",
     "slug": "letsact-landing-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 192,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 212,
+    "timeDay": 211,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2022-08-06": 0
+      "2022-08-06": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://joinlets.de",
     "icon": "https://favicons.githubusercontent.com/joinlets.de",
     "slug": "lets-landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 680,
-    "timeWeek": 762,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 754,
+    "timeDay": 673,
+    "timeWeek": 754,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2022-08-06": 0
+      "2022-08-06": 9
     }
   },
   {
